@@ -1,0 +1,6 @@
+A001,Alice Admin,admin
+S001,Rohan Shrestha,student
+S002,Anita Koirala,student
+S003,Bikash Rai,student
+S004,Sneha Gurung,student
+s005,Prakash Yadav,student
